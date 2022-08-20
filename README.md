@@ -1,6 +1,6 @@
 # calculadora_flex
 
-Desenvolvida em JavaScript
+Desenvolvida em JavaScript.
 Calculadora para carro flex, a partir da inserção de valores nas caixas de texto, aplicação mostra qual opção de abastecimento é mais vantajosa naquela ocasião.
 
 
